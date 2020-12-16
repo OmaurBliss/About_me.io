@@ -1,19 +1,18 @@
 #strong {
-    font-weight: bold;
-    font-size: 30px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 #border {
-    border: 1px solid red
+  border: 1px solid black;
 }
 
-body, html {
-    height: 100%;
-  }
-  .bg {
+body,
+html {
+  height: 100%;
     /* The image used */
     background-image: url("https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg");
-  
+
     /* Full height */
     height: 100%;
   
@@ -21,13 +20,17 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
-  .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: white;
-    text-align: center;
- }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+form {
+  background-color: white;
+}
