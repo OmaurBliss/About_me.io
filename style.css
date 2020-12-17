@@ -36,3 +36,6 @@ html {
 form {
   background-color: white;
 }
+.container {
+  box-shadow: 10px 10px rgb(150, 145, 145);
+}
