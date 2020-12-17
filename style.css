@@ -4,7 +4,7 @@
 }
 
 #border {
-  border: 1px solid black;
+  border: 5px solid black;
 }
 
 body,
@@ -34,6 +34,10 @@ html {
   text-align: center;
 }
 form {
+  background-color: white;
+}
+
+main {
   background-color: white;
 }
 .container {
