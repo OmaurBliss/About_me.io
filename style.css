@@ -20,13 +20,13 @@ html {
     background-size: cover;
 }
 
-#line-style {
+/* #line-style {
   margin-bottom: 50px;
-}
+} */
 
-#text {
+.text {
   font-weight: bold;
-  text-align: end;
+  text-align: left;
 }
 /* .textcolor {
   text-shadow: 2px 2px rgb(155, 123, 123);
@@ -47,7 +47,9 @@ background-color: white;
   box-shadow: 10px 10px rgb(155, 123, 123);
 }
 
-
+.margin {
+  margin-bottom: 20px;
+}
 
 .footer {
   position: fixed;
