@@ -22,16 +22,15 @@ html {
 
 #line-style {
   margin-bottom: 50px;
-  
 }
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: white;
-  text-align: center;
+
+#text {
+  font-weight: bold;
+  text-align: end;
 }
+/* .textcolor {
+  text-shadow: 2px 2px rgb(155, 123, 123);
+} */
 form {
   background-color: white;
 }
@@ -45,6 +44,16 @@ background-color: white;
   
 }
 .container {
-  box-shadow: 10px 10px rgb(150, 145, 145);
+  box-shadow: 10px 10px rgb(155, 123, 123);
 }
 
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
