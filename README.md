@@ -24,7 +24,7 @@ https://omaurbliss.github.io/Omaur_BLiss.io/
 
 
 
-## Continued fixes
+## Continued Improvements
 
 Social media button alignment. 
 
