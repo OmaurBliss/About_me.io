@@ -54,6 +54,7 @@ background-color: white;
 }
 
 .margin {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -89,4 +90,7 @@ background-color: white;
 }
 .float {
   float: right;
+}
+.buttonalign {
+  text-align: center;
 }
