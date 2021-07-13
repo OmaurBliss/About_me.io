@@ -1,12 +1,12 @@
 ## Bootstrap About Me
 
-About me page utilizes Bootstrap style sheet to create customized about, contact, and portfolio pages
+About me page utilizes Bootstrap style sheet to create customized about, contact, and portfolio pages.
 
 - Site utilizes Bootstrap Grid
 - Site is responsive while minimizing use of media query
 - Site contains consistant navbar each page
 - Site contains sticky footer
-- All html has been verified
+- All HTML has been verified
 
 
 
